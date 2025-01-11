@@ -4,3 +4,8 @@ const a=()=>{
 const b=()=>{
     alert("hello")
 }
+
+
+const e =()=>{
+    return 'the end'
+}
