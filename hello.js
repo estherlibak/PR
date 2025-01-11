@@ -5,7 +5,9 @@ const b=()=>{
     alert("hello")
 }
 
-
+const c=()=>{
+    return 'goodby'
+}
 
 
 const d=()=>{
