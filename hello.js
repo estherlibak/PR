@@ -4,3 +4,10 @@ const a=()=>{
 const b=()=>{
     alert("hello")
 }
+
+
+
+
+const d=()=>{
+    console.log("aaaa")
+}
