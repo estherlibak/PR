@@ -4,6 +4,12 @@ const a=()=>{
 const b=()=>{
     alert("hello")
 }
+
 const c=()=>{
     return 'goodby'
+}
+
+
+const d=()=>{
+    console.log("aaaa")
 }
